@@ -9,6 +9,8 @@ public class ArrayPractice {
     public static void main(String[] args) {
         int[] arr = new int[]{1,1,1,2,64,24,5,5,6}; //2
 
+        int[] newArry = new int[]{54,353,35,5,53,5343};
+
         System.out.println(findMaxAvgNumberByBruteForce(arr, 3));
         System.out.println(findMaxAvgSlidingWindow(arr, 3));
 
@@ -16,13 +18,13 @@ public class ArrayPractice {
 
     public static boolean findElement(int[] arr, int k){
         for (int j : arr) {
-
             if (j == k) {
                 return true;
             }
         }
         return false;
     }
+
 
     public static int[] findMinMax(int[] arr){
 

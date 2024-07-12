@@ -5,10 +5,10 @@ import java.util.Set;
 
 public class ArrayPractices {
     public static void main(String[] args) {
-//        printGrid(3,3);
+       printGrid(3,3);
 //        findMaxMin(new int[]{2,3,5});
 //        removeSpecificNumber(new int[]{2,3,5,9,1},3);
-            findDuplicateValue(new int[]{2,2,3,5,9,1});
+       //     findDuplicateValue(new int[]{2,2,3,5,9,1});
     }
 
     public static void printGrid(int rows, int cols) {
@@ -56,6 +56,7 @@ public class ArrayPractices {
             }
             result[pos]=nums[i]; // res[2] = 5
             pos++;
+
         }
         for(int j : result){
             System.out.print(j+" ");

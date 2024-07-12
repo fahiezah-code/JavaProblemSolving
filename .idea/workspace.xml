@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b607aa9-14b2-4651-a59a-9b8e8073b15c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LeetCodeProblem/ArrayPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeetCodeProblem/ArrayPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaDSAlgorith/BinarySearchProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaDSAlgorith/BinarySearchProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractise/ArrayListPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractise/ArrayListPractise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javaPractise/ArrayPractices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javaPractise/ArrayPractices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeSortedArray">
+  <component name="RunManager" selected="Application.IsPalindrome">
     <configuration name="Check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Check" />
       <module name="JavaProblemSolving" />
@@ -53,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsHappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThirtyDaysChallenge.IsHappyNumber" />
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirtyDaysChallenge.twoPointers.IsPalindrome" />
       <module name="JavaProblemSolving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ThirtyDaysChallenge.*" />
+          <option name="PATTERN" value="ThirtyDaysChallenge.twoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.SquareSortedArray" />
         <item itemvalue="Application.TownJudge" />
         <item itemvalue="Application.Check" />
-        <item itemvalue="Application.IsHappyNumber" />
       </list>
     </recent_temporary>
   </component>
